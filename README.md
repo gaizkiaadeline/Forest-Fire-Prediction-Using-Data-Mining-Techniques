@@ -15,6 +15,9 @@ Key Components:
 - Visualization: Multiple visualizations, such as histograms and QQ plots, to assess data distributions and model accuracy.
 
 Files:
+
 Forest Fire Prediction Using Data Mining Techniques.R: R script that contains the entire process of data filtering, Log Transform, and modeling.
+
 forestfires.csv: Dataset of forest fires in Portugal used for training and testing the models.
+
 Forest Fire Prediction Using Data Mining Techniques.pdf: Documentation of the project methodology, results, and conclusion.
