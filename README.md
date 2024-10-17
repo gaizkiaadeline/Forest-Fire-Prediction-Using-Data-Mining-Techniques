@@ -21,3 +21,5 @@ Forest Fire Prediction Using Data Mining Techniques.R: R script that contains th
 forestfires.csv: Dataset of forest fires in Portugal used for training and testing the models.
 
 Forest Fire Prediction Using Data Mining Techniques.pdf: Documentation of the project methodology, results, and conclusion.
+
+![FWI Viasualization](https://github.com/user-attachments/assets/d987c39d-abe7-408b-ab86-8decce56c2ea)
